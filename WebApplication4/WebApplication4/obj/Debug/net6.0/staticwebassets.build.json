@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "V4dqDThlp51QUsBiwehxnFdMKgHUze5LQzV8XzsADNY=",
+  "Source": "WebApplication4",
+  "BasePath": "_content/WebApplication4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication4\\wwwroot",
+      "Source": "WebApplication4",
+      "ContentRoot": "C:\\Users\\Dmitriy\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\",
+      "BasePath": "_content/WebApplication4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
